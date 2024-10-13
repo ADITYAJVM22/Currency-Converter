@@ -12,14 +12,14 @@ body{
 h2{
     text-align: center;
     /* text-decoration: underline; */
-    border: 1px solid rgb(143, 33, 162);
+/*     border: 1px solid rgb(143, 33, 162); */
     border-radius: 0.3rem;
     background-color: #8b9dc3;
     padding: 0.2rem;
     font-size: 1.5rem;
 }
 .container{
-    background-color: rgba(240, 248, 255, 0.45);
+    background-color: rgb(4 53 95 / 45%)
     padding: 2rem;
     border-radius: 1rem;
     min-height: 50vh;
